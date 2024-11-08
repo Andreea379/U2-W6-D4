@@ -1,0 +1,13 @@
+@import "./scss/partials/bootstrap-overrides";
+
+* {
+  margin: 0;
+}
+
+header {
+  height: 5rem;
+  img {
+    height: 5rem;
+    width: 10rem;
+  }
+}
